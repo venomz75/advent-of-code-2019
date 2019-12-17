@@ -1,2 +1,1 @@
-# adventOfCode2019
- Advent of Code, undertaken in Haskell! (Late to getting around to it, but it's still good practise!)
+[Advent of Code 2019](https://adventofcode.com/), undertaken in Haskell! I'm late to getting around to it (thanks exams), but it's still good fun!
